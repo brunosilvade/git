@@ -1,4 +1,7 @@
 Teste
+
+Alterando o Documento
+
 Esta linha foi modificada no ramo Master
 Esta linha também foi modificada no ramo Master
 Esta Linha foi modificada no ramo Teste
