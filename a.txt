@@ -1,5 +1,5 @@
 Teste
-
+Mais outra linha
 Alterando o Documento
 
 Esta linha foi modificada no ramo Master
